@@ -1,0 +1,21 @@
+{
+  "name": "maket",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Georgi Tigiev"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Georgitigiev/SuperLayout",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}

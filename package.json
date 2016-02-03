@@ -1,0 +1,21 @@
+{
+  "name": "maket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georgitigiev/SuperLayout.git"
+  },
+  "author": "Georgi Tigiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Georgitigiev/SuperLayout/issues"
+  },
+  "homepage": "https://github.com/Georgitigiev/SuperLayout#readme"
+}
